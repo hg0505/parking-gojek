@@ -35,13 +35,13 @@ public class ParkingSlot {
         this.vehicle = vehicle;
     }
 
-    public ParkingSlot(int slotNumber, int level, boolean isOccupied) {
+    public ParkingSlot(int slotNumber, boolean isOccupied) {
         super();
         this.slotNumber = slotNumber;
         this.isOccupied = isOccupied;
     }
 
-    public ParkingSlot(int slotNumber, int level, boolean isOccupied, Vehicle vehicle) {
+    public ParkingSlot(int slotNumber, boolean isOccupied, Vehicle vehicle) {
         super();
         this.slotNumber = slotNumber;
         this.isOccupied = isOccupied;
