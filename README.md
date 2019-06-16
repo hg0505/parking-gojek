@@ -1,6 +1,6 @@
-# Parking Library
+# Parking-gojek
 
-This is a java based parking lot library, which can be plugged-in and used to any project.
+This is a java based parking lot programmer, which can be plugged-in and used to any project.
 
 ## Setup
 
