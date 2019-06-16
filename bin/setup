@@ -1,0 +1,8 @@
+# Installing dependencies
+mvn clean install -DskipTests
+
+# Running tests
+mvn test
+
+# Packaging project
+mvn clean package -DskipTests

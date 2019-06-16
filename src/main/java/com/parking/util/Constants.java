@@ -1,6 +1,6 @@
 package com.parking.util;
 
-public class constants {
+public class Constants {
 
 
         public static final String EXIT = "exit";
